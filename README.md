@@ -11,7 +11,10 @@ A Telegram chatbot with a female persona that responds in a witty, unfiltered, a
 1. Clone the repo:
    `bash
    git clone (https://github.com/Rajasahab3891/unfilteredai-)
-   cd unfiltredai-
-   pip install -r requirements.txt
-   python main.py
+
+##deploy
+
+1. cd unfiltredai-
+2. pip install -r requirements.txt
+3. python main.py
    
