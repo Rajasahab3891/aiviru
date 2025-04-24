@@ -12,7 +12,7 @@ A Telegram chatbot with a female persona that responds in a witty, unfiltered, a
    `bash
    git clone (https://github.com/Rajasahab3891/unfilteredai-)
 
-##Deploy
+## Deploy
 
 1. cd unfiltredai-
 2. pip install -r requirements.txt
